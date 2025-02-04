@@ -10,6 +10,7 @@ Tested on Windows 10.
 
 Clone and cd into the directory.
 
+
 You should see a `.xpr` file. Open it with Vivado!
 
 ## GitHub Actions Testbench
